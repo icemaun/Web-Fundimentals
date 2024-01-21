@@ -15,8 +15,8 @@ Fonts are separated by a & */
   --paragraph-font: Lato, "Montserrat";
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #2186ce;  /* headlines on a white background */ 
-  --headline-color-on-color: rgb(194, 212, 56); /* headlines on a colored background */ 
+  --headline-color-on-white: #21ce9d36;  /* headlines on a white background */ 
+  --headline-color-on-color: rgb(240, 116, 45); /* headlines on a colored background */ 
   --paragraph-color-on-white: #28b66f; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
