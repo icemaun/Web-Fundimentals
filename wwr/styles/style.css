@@ -17,14 +17,23 @@ body {
 
 }
 
-header, footer 
-    {padding: 10px;
-        font-size: 1.2em;
+header 
+    {font-size: 1.2em;
     
     /* Your header and footer styles go here */
 }
 
 
+
+footer p {
+    font-size: 1.2em;  
+
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+           
 nav a {
     text-align: center;
     color: #027216;
