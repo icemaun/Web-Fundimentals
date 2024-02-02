@@ -12,6 +12,11 @@ body {
     
 }
 
+.icon {
+    width: 80px;
+}
+                
+
 #background {
     height: 725px;
 
