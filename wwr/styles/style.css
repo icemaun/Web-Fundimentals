@@ -9,7 +9,7 @@ body {
     max-width: 1600px; /* Set your desired max-width */
     margin: 0 auto; /* Center the container horizontally */
     padding: 20px; /* Add padding as needed */
-    background-color: rgba(20,30,13, .7);
+    
 }
 
 #background {
@@ -19,6 +19,7 @@ body {
 
 header 
     {font-size: 1.2em;
+    background-color: rgb(130, 163, 39);
     
     /* Your header and footer styles go here */
 }
@@ -34,7 +35,7 @@ footer p a:hover {
            
 nav a {
     text-align: center;
-    color: #027216;
+    color: #012608;
     text-decoration: none;
 }    
 
