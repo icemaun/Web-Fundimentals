@@ -18,6 +18,14 @@ header, footer
 }
 
 
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+
+
 nav a:hover {
     text-align: center;
     background-color: black;
