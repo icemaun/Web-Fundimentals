@@ -18,8 +18,9 @@ header, footer
 }
 
 
-nav a {
+nav a:hover {
     text-align: center;
+    background-color: black;
 }
 
 #background {
