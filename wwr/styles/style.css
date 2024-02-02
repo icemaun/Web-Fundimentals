@@ -24,8 +24,14 @@ header
     /* Your header and footer styles go here */
 }
 
+footer {
+    background-color: rgb(130, 163, 39)
+
+}
+
+
 footer p {
-    font-size: 1.2em; background-color: rgb(130, 163, 39); 
+    font-size: 1.2em; ; 
 
 }
 
