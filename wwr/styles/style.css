@@ -1,0 +1,41 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fcfbfb; 
+}
+
+#content {
+    max-width: 1600px; /* Set your desired max-width */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding as needed */
+    background-color: rgba(20,30,13, .7);
+}
+
+header, footer 
+    {padding: 10px;
+    /* Your header and footer styles go here */
+}
+
+
+nav a {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+
+}
+
+#hero-msg h1,
+#hero-msg h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
