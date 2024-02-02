@@ -12,6 +12,11 @@ body {
     background-color: rgba(20,30,13, .7);
 }
 
+#background {
+    height: 725px;
+
+}
+
 header, footer 
     {padding: 10px;
         font-size: 1.2em;
@@ -36,10 +41,6 @@ nav a:hover {
     
 }
 
-#background {
-    height: 725px;
-
-}
 
 #hero-msg h1,
 #hero-msg h4 {
