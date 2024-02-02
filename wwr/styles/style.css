@@ -7,7 +7,7 @@ body {
 
 #content {
     max-width: 1600px; /* Set your desired max-width */
-    margin: 0 auto; /* Center the container horizontally */
+    margin: center; /* Center the container horizontally */
     padding: 20px; /* Add padding as needed */
     
 }
