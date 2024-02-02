@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #fcfbfb; 
+    background-color: #e3ac6cff; 
 }
 
 #content {
@@ -22,7 +22,7 @@ header, footer
 
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #6ec977;
     text-decoration: none;
 }    
 
@@ -31,7 +31,7 @@ nav a {
 nav a:hover {
     text-align: center;
     background-color: black;
-    color: #d9c2a3;
+    color: #64b9cc;
     text-decoration: underline;
     
 }
