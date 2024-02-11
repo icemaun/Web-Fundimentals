@@ -22,14 +22,14 @@ h2 {
 #content {
     max-width: 1600px; /* Set your desired max-width */
     margin: center; /* Center the container horizontally */
-    padding: 20px; /* Add padding as needed */
+    padding: 80px; /* Add padding as needed */
     
 }
 
 .icon {
     width: 80px;
 }
-                
+
 
 #background {
     height: 725px;
