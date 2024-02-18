@@ -103,11 +103,9 @@
 /* Activity 4 styles */ 
 .content4 {
   /* This is the parent of the activity 4 boxes. */
-  display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-items: center;
-    gap: 20px;
-  height: 400px;
+   height: 400px;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
 }
 .red4 {
   width: 100%; 
