@@ -12,6 +12,16 @@
     align-self: center;
 }
 
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+    
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
 
 #hero {
     display: grid;
@@ -112,8 +122,7 @@ h2 {
 header 
     {font-size: 1.2em;
      background-color: rgb(130, 163, 39);
-     display: grid;
-     grid-template-columns: 150px auto;
+
     }
     
     /* Your header and footer styles go here */
@@ -145,10 +154,7 @@ footer p a:hover {
 }  
 
 
-nav {
-    display: flex;
-    justify-content: space-around;
-}
+
              
            
 nav a {
