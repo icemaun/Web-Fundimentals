@@ -162,7 +162,7 @@ main section {
 
 .home-grid {
     display: grid;
-    grid-template-columns: repeat(10, 1fr); /* 10 equal columns */
+    grid-template-columns: repeat(11, 1fr); /* 10 equal columns */
     gap: 100px; /* Add gap between grid items */
 }
 
