@@ -9,6 +9,16 @@
     text-align: center
 }
 
+h1 {
+    text-align: center
+}
+
+h3 {
+    font-size: .8em;
+    text-align: center
+
+}
+
 header {
     display: grid;
     grid-template-columns: 150px auto;
@@ -45,6 +55,9 @@ nav {
     width:100%
 }
 
+h1 {
+    text-align: center;
+}
 
 
 #hero-box {
