@@ -3,6 +3,12 @@
     font-size: 2em;
 }
 
+.home-title2{
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    text-align: center
+}
+
 header {
     display: grid;
     grid-template-columns: 150px auto;
@@ -26,11 +32,19 @@ nav {
     align-self: center;
 }
 
+
+
+
 #hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
     margin-top: -100px;
 }
+
+.Raft-img {
+    width:100%
+}
+
 
 
 #hero-box {
