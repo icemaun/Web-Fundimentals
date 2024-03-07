@@ -42,6 +42,16 @@ nav {
     align-self: center;
 }
 
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 1;
+    margin-right: 20px; /* Adjust as needed for spacing */
+}
+
 
 
 
