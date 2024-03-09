@@ -18,6 +18,9 @@
     text-align: center;
 }
 
+h5 {
+    font-size: 1em;
+}
 
 header {
     display: grid;
