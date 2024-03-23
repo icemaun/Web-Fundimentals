@@ -50,6 +50,12 @@ nav {
    
 }
 
+.Creating{
+    width: 600px;
+    display: block;
+    margin: auto;  
+}
+
 body {
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
