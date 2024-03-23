@@ -64,7 +64,27 @@ body {
     font-size: .8em;
     color: #c84230;
     
-  }
+}
+
+
+.Apply{
+    background-color: #ebb14d;
+    color:#c84230;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+
+.button-box {
+    text-align: center;
+}
+
+
+
+
 
 footer {
     background-color: #ebb14d;
@@ -77,6 +97,7 @@ footer {
 
 footer p {
     font-size: 1.2em;
+    color:#c84230
 }
 
 footer p a:hover {
