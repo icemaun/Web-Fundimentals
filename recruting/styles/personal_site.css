@@ -5,11 +5,25 @@ header {
     background-color: #ebb14d;
 }
 
+nav a {
+    text-align: center;
+    color: #c84230;
+    text-decoration: none;
+    padding: 35px;
+}
+
+nav a:hover {
+    text-align: center;
+    background-color: black;
+    color: #fafcfd;
+    text-decoration: none;
+}
 
 .home-title {
     font-family: 'Fjalla One', 'Arial';
     font-size: 2em;
-    text-align: center
+    text-align: center;
+    color: #c84230;
 }
 
 .date-grid {
@@ -21,26 +35,19 @@ header {
     text-align: center;
 }
 
-h5 {
-    font-size: 1em;
-}
-
-
-
 nav {
     display: flex;
     justify-content: space-around;
 }
 
 .logo {
-    width: 80px
-    
+    width: 110px;    
 }
 
 #logo_link {
     padding-top: 5px;
-    justify-self: left;
-    align-self: center;
+    justify-self:left;
+   
 }
 
 body {
@@ -51,9 +58,11 @@ body {
     background-color: #f4dc94;
 }
 
+
 .home-grid{
     text-align: center;
-    font-size: .8em
+    font-size: .8em;
+    color: #c84230;
     
   }
 
@@ -74,16 +83,6 @@ footer p a:hover {
     text-decoration: underline;
 }
 
-nav a {
-    text-align: center;
-    color: #012608;
-    text-decoration: none;
-    padding: 35px;
-}
 
-nav a:hover {
-    text-align: center;
-    background-color: black;
-    color: #fafcfd;
-    text-decoration: none;
-}
+
+
