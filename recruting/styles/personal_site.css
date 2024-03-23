@@ -58,6 +58,51 @@ body {
     background-color: #f4dc94;
 }
 
+.container{
+    padding:20px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;
+}
+
+.container2{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+    
+    
+}
+
+.contianer3{
+    padding:20px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;   
+}
+
+.contianer4{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+}
+
+.contianer5{
+    padding:20px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;
+    
+}
+
+
+.contianer6{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+
+}
+
+
 
 .home-grid{
     text-align: center;
