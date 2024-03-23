@@ -56,6 +56,12 @@ nav {
     margin: auto;  
 }
 
+.Creating2{
+    width: 50%;
+    display: block; /* Set display property to block */
+    margin: auto;
+}
+
 body {
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
