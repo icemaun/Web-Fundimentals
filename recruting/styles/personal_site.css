@@ -51,9 +51,17 @@ nav {
 }
 
 .Creating{
-    width: 600px;
+    width: 1200px;
+    height:300px;
     display: block;
-    margin: auto;  
+    margin: auto;
+    overflow:hidden;
+}
+
+.Creating img  {
+    width: 100%; /* Make the image fill the container horizontally */
+    height: 100%; /* Maintain the aspect ratio */
+    object-fit: cover;
 }
 
 .Creating2{
