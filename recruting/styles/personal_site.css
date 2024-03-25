@@ -20,7 +20,7 @@ nav a:hover {
 }
 
 .home-title {
-    font-family: 'Fjalla One', 'Arial';
+    font-family: 'Fjalla One';
     font-size: 2em;
     text-align: center;
     color: #c84230;
@@ -71,7 +71,7 @@ nav {
 }
 
 body {
-    font-family: Raleway, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -79,7 +79,7 @@ body {
 }
 
 .container{
-    padding:20px;
+    padding:-1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;
@@ -94,7 +94,7 @@ body {
 }
 
 .contianer3{
-    padding:20px;
+    padding:-1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;   
@@ -107,7 +107,7 @@ body {
 }
 
 .contianer5{
-    padding:20px;
+    padding:-1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;
@@ -121,7 +121,6 @@ body {
     text-align: left;
 
 }
-
 
 
 .home-grid{
