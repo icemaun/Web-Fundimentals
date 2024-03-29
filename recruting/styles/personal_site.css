@@ -58,3 +58,143 @@ nav {
     overflow:hidden;
 }
 
+.Creating img  {
+    width: 100%; /* Make the image fill the container horizontally */
+    height: 100%; /* Maintain the aspect ratio */
+    object-fit: cover;
+}
+
+.Creating2{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+body {
+    font-family: 'Arial';
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4dc94;
+}
+
+.container{
+    padding:-1px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;
+}
+
+.container2{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+    
+    
+}
+
+.contianer3{
+    padding:-1px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;   
+}
+
+.contianer4{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+}
+
+.contianer5{
+    padding:-1px;
+    padding-left: 250px;
+    text-align:left;
+    font-size: 1.5em;
+    
+}
+
+
+.contianer6{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: left;
+
+}
+
+
+.home-grid{
+    text-align: center;
+    font-size: 1em;
+    color: #c84230;
+    
+}
+
+.creating3{
+    width: 50%;
+    display: block;
+    margin: auto;
+    
+}
+
+
+.creating4{
+    width: 80%;
+    display: block;
+    margin: auto;
+    
+}
+
+.creating5{
+    width: 60%;
+    display: block;
+    margin: auto;
+    
+}
+
+
+
+.Apply{
+    background-color: #ebb14d;
+    color:#c84230;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+
+.button-box {
+    text-align: center;
+    margin-top: 100px
+}
+
+
+
+
+
+footer {
+    background-color: #ebb14d;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer p {
+    font-size: 1.2em;
+    color:#c84230
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+ 
