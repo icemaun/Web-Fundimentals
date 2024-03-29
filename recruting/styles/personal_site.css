@@ -189,6 +189,12 @@ footer p a:hover {
     text-decoration: underline;
 }
 
+div {
+    width: 35px;
+    height: 5px;
+    background-color: #c84230;
+    margin: 6px 0;
+  }
 
 
 
