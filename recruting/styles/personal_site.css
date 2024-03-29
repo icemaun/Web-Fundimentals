@@ -20,7 +20,7 @@ nav a:hover {
 }
 
 .home-title {
-    font-family: 'Fjalla One';
+    font-family: 'Fjalla one, sans-serif';
     font-size: 2em;
     text-align: center;
     color: #c84230;
@@ -71,7 +71,7 @@ nav {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial';
     font-size: 22px;
     margin: 0;
     padding: 0;
