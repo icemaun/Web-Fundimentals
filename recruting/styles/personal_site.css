@@ -70,6 +70,19 @@ nav {
     margin: auto;
 }
 
+.Creating7{
+    width: 50%;
+    display: block;
+    margin: auto;
+    
+}
+
+.Creating7 img  {
+    width: 100%; /* Make the image fill the container horizontally */
+    height: 100%; /* Maintain the aspect ratio */
+    object-fit: cover;
+}
+
 body {
     font-family: 'Arial';
     font-size: 22px;
@@ -79,7 +92,7 @@ body {
 }
 
 .container{
-    padding:-1px;
+    padding:1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;
@@ -94,7 +107,7 @@ body {
 }
 
 .contianer3{
-    padding:-1px;
+    padding:1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;   
@@ -107,7 +120,7 @@ body {
 }
 
 .contianer5{
-    padding:-1px;
+    padding:1px;
     padding-left: 250px;
     text-align:left;
     font-size: 1.5em;
