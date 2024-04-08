@@ -203,6 +203,53 @@ footer p a:hover {
     text-decoration: underline;
 }
 
+@media screen and (max-width: 900px) {
+    
+    .home-grid {
+        display: block;
+        height: auto;
+    }
+
+    nav,
+    footer {
+        flex-direction: column;
+    }
+
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+
+    #hero {
+        margin-top: 0;
+    }
+
+   
+  home-title {
+        font-size: 2em
+    }
+
+    .Creating img,
+    .Creating2,
+    .Creating7,
+    .Creating7 img,
+    .creating3,
+    .creating4,
+    .creating5{
+        margin: 50px auto;
+        width: 60%;
+    }
+
+    #background {
+        display: none;
+    }
+
+   footer {
+        margin-top: 25px;
+    }
+}
+
+
 
 
 
